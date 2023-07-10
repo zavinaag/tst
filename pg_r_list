@@ -1,0 +1,20 @@
+;
+; Archive created at 2023-06-30 10:42:50 UTC
+;     dbname: db
+;     TOC Entries: 10
+;     Compression: -1
+;     Dump Version: 1.14-0
+;     Format: CUSTOM
+;     Integer: 4 bytes
+;     Offset: 8 bytes
+;     Dumped from database version: 15.3 (Ubuntu 15.3-1.pgdg20.04+1)
+;     Dumped by pg_dump version: 15.3 (Ubuntu 15.3-1.pgdg20.04+1)
+;
+;
+; Selected TOC Entries:
+;
+216; 1259 63204 TABLE public t postgres
+215; 1259 63203 SEQUENCE public t_id_seq postgres
+3303; 0 0 SEQUENCE OWNED BY public t_id_seq postgres
+3152; 2604 63207 DEFAULT public t id postgres
+3304; 0 0 SEQUENCE SET public t_id_seq postgres
